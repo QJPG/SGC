@@ -1,5 +1,6 @@
-# SGC ![](https://raw.githubusercontent.com/QJPG/SGC/main/addons/SGC/misc/ScriptExtend.svg)
-Simple Godot Component System for any Node
+### SGC ![](https://raw.githubusercontent.com/QJPG/SGC/main/addons/SGC/misc/ScriptExtend.svg)
+### Simple Godot Component System for any Node
+### The component class is abstract and can be extended for other scripts to inherit.
 
 ## ![component_icon](https://github.com/user-attachments/assets/5d345612-4d2f-4697-a50b-b7f60ed149f1) SGCComponent
 It can be added to any node (as long as it is not one of the same type).
